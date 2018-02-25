@@ -1,0 +1,9 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+idna==2.6
+matplotlib==2.1.0
+numpy==1.13.3
+pandas==0.20.3
+python-dateutil==2.6.1
+pytz==2017.2
+scipy==1.0.0
